@@ -87,7 +87,7 @@ public class DashboardActivity extends AppCompatActivity {
     protected void onResume() {
         super.onResume();
 
-            Log.e(MAIN_TAG, "5_onResume");
+        Log.e(MAIN_TAG, "5_onResume");
     }
 
     @Override
